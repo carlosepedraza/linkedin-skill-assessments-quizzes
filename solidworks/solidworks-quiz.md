@@ -277,7 +277,7 @@
 
 ![solidworks image](images/solidworks_q34.png)
 
-- [ ] a hole table
+- [x] a hole table
 - [ ] a revision table
 - [ ] a tolerance table
 - [ ] a punch table
